@@ -13,6 +13,9 @@ Thumbs.db
 # VSCode settings
 .vscode/
 
+# build directories
+build/
+
 # Prerequisites
 *.d
 

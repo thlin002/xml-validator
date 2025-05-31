@@ -1,8 +1,8 @@
-#include <string>
+#ifndef SIMPLE_VALIDATOR_H
+#define SIMPLE_VALIDATOR_H
 
-//feel free to add other classes/methods if you want
-bool DetermineXml(const std::string &input)
-{
-    // TODO: Implement here
-    return false;
-}
+#include "defs.hpp"
+
+bool DetermineXml(const std::string &input);
+
+#endif
